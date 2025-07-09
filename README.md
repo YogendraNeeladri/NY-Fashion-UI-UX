@@ -1,5 +1,5 @@
 # NY-Fashion-UI-UX--
-# 👗 NY Fashion – UI/UX E-Commerce Interface-- https://www.figma.com/design/caeLUunBx3dUR7qNkLomPS/Untitled?node-id=0-1&t=HPtrOFSSQxbnbXqD-1
+👗 NY Fashion – UI/UX E-Commerce Interface-- https://www.figma.com/design/caeLUunBx3dUR7qNkLomPS/Untitled?node-id=0-1&t=HPtrOFSSQxbnbXqD-1
 
 **NY Fashion** is a fashion-focused e-commerce UI/UX design prototype that emphasizes user experience, accessibility, and responsiveness across devices. This project was built as a design-centric solution for modern online fashion retail platforms.
 
